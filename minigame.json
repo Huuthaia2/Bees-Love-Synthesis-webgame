@@ -8,10 +8,10 @@
       "enabled": false,
       "isTest": true,
       "config": {
-        "interstitial": "4864743603539728_5070034729677280",
-        "banner": "4864743603539728_5082905605056859",
-        "rewarded_video": "4864743603539728_5070034119677341",
-        "rewarded_interstitial": "4864743603539728_5070034119677341"
+        "interstitial": "333",
+        "banner": "333",
+        "rewarded_video": "333",
+        "rewarded_interstitial": "333"
       },
       "options": {
         "fb_max_ad_instance": 3,
